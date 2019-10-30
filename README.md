@@ -13,6 +13,7 @@ The binary search tree implements the following functions
 10. Insert a new node
 11. Delete a node
 12. Determine if it is a balanced tree
+
 二叉搜索树实现了以下功能
 1.计算二叉搜索树的大小
 2.前中后递归遍历二叉搜索树
